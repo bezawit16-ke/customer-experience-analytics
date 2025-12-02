@@ -1,0 +1,16 @@
+bank,rating,review,date,source
+CBE,1,CBE app review 1,2024-12-02,Google Play
+CBE,3,CBE app review 2,2024-12-02,Google Play
+CBE,4,CBE app review 3,2024-12-02,Google Play
+CBE,4,CBE app review 4,2024-12-02,Google Play
+CBE,5,CBE app review 5,2024-12-02,Google Play
+BOA,1,BOA app review 1,2024-12-02,Google Play
+BOA,3,BOA app review 2,2024-12-02,Google Play
+BOA,4,BOA app review 3,2024-12-02,Google Play
+BOA,4,BOA app review 4,2024-12-02,Google Play
+BOA,5,BOA app review 5,2024-12-02,Google Play
+Dashen,1,Dashen app review 1,2024-12-02,Google Play
+Dashen,3,Dashen app review 2,2024-12-02,Google Play
+Dashen,4,Dashen app review 3,2024-12-02,Google Play
+Dashen,4,Dashen app review 4,2024-12-02,Google Play
+Dashen,5,Dashen app review 5,2024-12-02,Google Play

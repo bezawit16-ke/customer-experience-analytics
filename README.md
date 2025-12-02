@@ -1,30 +1,42 @@
-# Customer Experience Analytics for Fintech Apps
+\# Customer Experience Analytics - Final Submission
 
-## Interim Submission
 
-### Project Overview
-Analysis of user reviews for three Ethiopian banking apps from Google Play Store to identify customer satisfaction drivers and pain points.
 
-### Banks Analyzed
-- Commercial Bank of Ethiopia (CBE)
-- Bank of Abyssinia (BOA)
-- Dashen Bank
+\## 📊 Project Overview
 
-### Current Status
-**Interim Submission** - Project setup and planning complete. Ready for implementation.
+Complete analysis of user reviews for three Ethiopian banking apps.
 
-### Technical Approach
-- Web scraping with google-play-scraper
-- Sentiment analysis using TextBlob/DistilBERT
-- Thematic analysis of customer feedback
-- PostgreSQL database for data storage
-- Data visualization with Matplotlib/Seaborn
 
-### Next Steps
-- Scrape 400+ reviews per bank
-- Implement advanced NLP analysis
-- Create comprehensive visualizations
-- Generate actionable recommendations
 
----
-*10 Academy - AI Mastery - Week 2 Challenge*
+\## 🏦 Banks Analyzed
+
+\- Commercial Bank of Ethiopia (CBE)
+
+\- Bank of Abyssinia (BOA)
+
+\- Dashen Bank
+
+
+
+\## 🚀 How to Run
+
+1\. Install dependencies: `pip install -r requirements.txt`
+
+2\. Collect data: `python scripts/scrape\_final.py`
+
+3\. Run analysis: `python scripts/analyze\_final.py`
+
+
+
+\## 📈 Results
+
+\- Average ratings calculated for each bank
+
+\- 3 visualizations generated
+
+\- Insights and recommendations provided
+
+
+
+\## 📁 File Structure
+

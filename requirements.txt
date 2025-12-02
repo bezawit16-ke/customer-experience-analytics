@@ -1,5 +1,4 @@
-pandas
-matplotlib
-seaborn
-textblob
-google-play-scraper
+pandas 
+matplotlib 
+seaborn 
+textblob 
